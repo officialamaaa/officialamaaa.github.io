@@ -201,3 +201,6 @@ themeButton.addEventListener('click', () => {
     localStorage.setItem('selected-theme', getCurrentTheme())
     localStorage.setItem('selected-icon', getCurrentIcon())
 })
+
+const message = 'Hi there, Welcome to my website, \n I just want to let you know, you\'re wonderful,\n and I appreciate you, don\'t clone my website tho, \n i\'m watching you' 
+console.log(message)
