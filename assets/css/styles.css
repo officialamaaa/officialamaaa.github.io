@@ -130,6 +130,7 @@ ul {
 
 a {
   text-decoration: none;
+  color: var(--text-color);
 }
 
 img {
@@ -517,36 +518,52 @@ img {
   width: 80%;
 }
 .skills__js{
-  width: 60%;
+  width: 70%;
 }
 .skills__react{
-  width: 75%;
+  width: 62%;
 }
-
-
 .skills__php{
-  width: 90%;
+  width: 60%;
 }
 .skills__nodejs{
-  width: 80%;
+  width: 58%;
 }
-.skills__firebase{
+
+.skills__google-analytics{
   width: 60%;
 }
-.skills__python{
-  width: 60%;
+.skills__google-ads{
+  width: 70%;
+}
+.skills__seo{
+  width: 65%;
+}
+.skills__smm{
+  width: 75%;
+}
+.skills__ppc{
+  width: 70%;
+}
+.skills__email{
+  width: 75%;
 }
 
 
 .skills__figma{
   width: 90%;
 }
-.skills__sketch{
+.skills__illustrator{
   width: 80%;
 }
 .skills__photoshop{
   width: 60%;
 }
+.skills__canva{
+  width: 80%;
+}
+
+
 
 .skills__close .skills__list{
   height: 0;
